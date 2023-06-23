@@ -21,3 +21,6 @@ export const Home = () => {
 };
 
 export default Home;
+
+
+// homedan korib chiq

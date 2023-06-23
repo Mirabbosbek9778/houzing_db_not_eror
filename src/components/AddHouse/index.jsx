@@ -332,3 +332,5 @@ export const AddNewHouse = () => {
 };
 
 export default AddNewHouse;
+
+// yangisi
